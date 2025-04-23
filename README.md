@@ -1,3 +1,5 @@
+<div align="center">
+
 ### E aí! Eu sou o João Victor 👋
 
 Apaixonado por tecnologia, estudante de Análise e Desenvolvimento de Sistemas, e sempre buscando aprender mais! 🚀
