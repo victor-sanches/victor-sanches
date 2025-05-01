@@ -6,7 +6,7 @@ Apaixonado por tecnologia, estudante de Análise e Desenvolvimento de Sistemas, 
 
 <img src="https://i.pinimg.com/736x/c7/29/bb/c729bb5d795755721ee08f561317dd5f.jpg" width="25%" style="max-height: 125px; object-fit: cover;" />
 
-![GitHub contributions](https://komarev.com/ghpvc/?username=victor-sanches&color=blue)
+![GitHub contributions](https://victor-sanches-perfil.vercel.app/api/visitas/badge)
 
 ## Habilidades
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
