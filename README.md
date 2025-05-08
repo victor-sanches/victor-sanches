@@ -8,7 +8,7 @@ Apaixonado por tecnologia, estudante de Análise e Desenvolvimento de Sistemas, 
 
 ## 🌐 Projeto Online
 
-[![Deploy](https://img.shields.io/badge/Acessar%20Projeto-000?style=for-the-badge&logo=vercel&logoColor=white)](https://contador-visitas.vercel.app)
+[![Deploy](https://img.shields.io/badge/Acessar%20Projeto-000?style=for-the-badge&logo=vercel&logoColor=white)](https://contador-visitas-qmip.vercel.app/)
 
 ## Habilidades
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
